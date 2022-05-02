@@ -1,4 +1,4 @@
-### hi there! 👋
+### hi there!
 
 i'm iliyan, a Canadian student who is interested in cybersecurity and programming.
 
